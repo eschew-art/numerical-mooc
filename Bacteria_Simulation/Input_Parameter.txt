@@ -1,0 +1,25 @@
+g0             	4
+gamma          	16
+k_value        	42.5
+Db             	0.21
+Dc             	0.001
+
+t_ref          	20
+Xe_value       	0.3
+X0             	0.001
+C0             	15
+C_thresh_value 	1.5
+
+d              	20
+rho            	2.5
+mu             	40
+dx             	0.5801886792452831
+dy             	0.5801886792452831
+
+gridx          	159
+gridy          	159
+dx             	0.5801886792452831
+dy             	0.5801886792452831
+
+nt             	5
+time_length    	24
